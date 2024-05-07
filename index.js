@@ -5,7 +5,7 @@ const app = express();
 const PORT = 3000;
 
 const pool = new Pool({
-  user: "postgres",
+  user: "postgres", // Usuário do PostgreSQL
   host: "localhost",
   database: "batalhas_herois",
   password: "senai564", // Senha do PostgreSQL
@@ -84,7 +84,6 @@ app.put("/herois/:id", async (req, res) => {
   });
 
 // Rota para deletar um herois
-
 app.delete("/herois/:id", async (req, res) => {
     try {
       const { id } = req.params;
