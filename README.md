@@ -1,6 +1,6 @@
 
 <div align="center">
-   *Batalha de Herois 🦸🏻‍♂️⚔🦹🏻‍♀️
+   Batalha de Herois 🦸🏻‍♂️⚔🦹🏻‍♀️
 </div>
 
 <p align="center">
