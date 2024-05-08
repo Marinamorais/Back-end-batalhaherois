@@ -15,8 +15,8 @@ Bem-vindos a Batalha de Herois (DC), em Backend. Fazendo um Crud completo.
 - PostgreSQL.
 
 ## Funcionalidades
--Criação do CRUD completo, dos personagem. 
--Criação da Batalha junto o Historico.
+- Criação do CRUD completo, dos personagem. 
+- Criação da Batalha junto o Historico.
 
 ## Iniciação do Projeto💫
 
@@ -34,7 +34,13 @@ entre no arquivo package.json. No paragrafo script adicione  "dev": "nodemon ind
 -Crie tabelas herois e historico que tenha sua relação 
 
 ## Arquivo Index.js 
-- Coloque suas informação do Banco como: user/host/database/password/port.
+- Coloque suas informação do Banco como: 
+- user
+- host
+- database
+- password
+- port.
+
 
 Logo após entre no terminal 
 
